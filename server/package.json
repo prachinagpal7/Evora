@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clerk/express": "^2.1.23",
+    "@neondatabase/serverless": "^1.1.0",
+    "axios": "^1.17.0",
+    "cloudinary": "^2.10.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "form-data": "^4.0.5",
+    "multer": "^2.1.1",
+    "openai": "^6.42.0",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
