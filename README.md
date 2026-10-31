@@ -7,6 +7,10 @@ Evora is a full-stack web application that brings a set of AI content tools into
   <img src="images/Landing_pg2.png" width="49%" alt="Evora landing page, tools overview" />
 </p>
 
+### Live Demo 
+
+[**Visit Evora →**](https://evora-hazel.vercel.app/)
+
 ---
 
 ## Features
